@@ -1,0 +1,54 @@
+body {margin: 0;
+    text-align: center;
+    font-family: 'Sen', sans-serif;
+    background-color: #beebe9;
+    text-align: center;}
+.mountain:hover{
+}
+.cloud {
+    height: 100px;
+    align-self: center;
+}
+.h3 {
+    font-size: 80px;
+}
+.heading {position: relative;
+         bottom: 50px;}
+.hr {
+    border-style: none;
+            height: 0px;
+            border-top: dotted;
+            border-color: black;
+            border-width: 5px;
+            width: 10%;
+        border-color: #230444;}
+
+.hr {
+    position: relative;
+    bottom: 50px;
+}
+.dp { width: 180px;
+       height: 180px;
+        border: white;
+       border-radius: 400px;}
+.skill-row {
+    width: 20%;
+    text-align: left;
+    margin: 100px auto 100px auto;
+    height: 20%;
+}
+.skil {
+    width: 25%;
+    height: 25%;
+    float: left;
+    background-color: #beebe9 ;
+    margin-right: 30px;
+
+}
+.skil2 {
+    width: 25%;
+    height: 25%;
+    float: right;
+    background-color: #beebe9 ;
+    margin-left: 30px;
+}
